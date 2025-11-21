@@ -1,0 +1,15 @@
+{
+  "name": "package-sorter",
+  "version": "1.0.0",
+  "description": "Implements sort(width, height, length, mass) per tech screen",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest --runInBand",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
